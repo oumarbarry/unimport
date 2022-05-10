@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/unjs/unimport/compare/v0.1.9...v0.2.1) (2022-05-10)
+
+
+### Features
+
+* auto import for Vue template ([#15](https://github.com/unjs/unimport/issues/15)) ([136fb32](https://github.com/unjs/unimport/commit/136fb322f46be47cc5cc318111cf2ea5728afa07))
+
+
+### Bug Fixes
+
+* **vue-template:** webpack compatibility ([7a761de](https://github.com/unjs/unimport/commit/7a761de53158be3a6ec4d269d626e460ddd3f230))
+
 ## [0.2.0](https://github.com/unjs/unimport/compare/v0.1.9...v0.2.0) (2022-05-10)
 
 
